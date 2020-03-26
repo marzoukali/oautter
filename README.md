@@ -1,14 +1,6 @@
 # oautter
 
-A new Flutter package project.
+Oautter is a client SDK for Flutter apps to authenticate and authorize end-users using OAuth 2.0 and OpenID Connect. 
 
 ## Getting Started
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
