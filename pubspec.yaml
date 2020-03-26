@@ -1,8 +1,8 @@
 name: oautter
-description: A new Flutter package project.
+description: Oautter is a client SDK for Flutter apps to authenticate and authorize end-users using OAuth 2.0 and OpenID Connect.
 version: 0.0.1
-author:
-homepage:
+author: Ahmed Ali <ahmedmarzouk.cs@gmail.com>
+homepage: https://github.com/marzoukali/oautter
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
